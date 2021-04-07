@@ -16,7 +16,7 @@ select a color and fill in cells to create their own artwork in the grid.
 
 `placeholder`
 
-* Run `index.html` in internet browser of your choice
+* Run `index copy.html` in internet browser of your choice
 
 * Set Grid size by selecting height and width in input (max size of 50). Click `Submit`
 * Choose Background Color from Selector
