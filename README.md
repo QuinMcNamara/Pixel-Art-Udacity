@@ -14,7 +14,7 @@ select a color and fill in cells to create their own artwork in the grid.
 ## How To Play
 * Clone or Download the Repository
 
-`placeholder`
+`https://github.com/QuinMcNamara/Pixel-Art-Udacity.git`
 
 * Run `index copy.html` in internet browser of your choice
 
